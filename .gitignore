@@ -1,0 +1,5 @@
+
+build.sh
+build_win.sh
+CMakeLists.txt.*
+qt.conf
